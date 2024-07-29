@@ -24,7 +24,7 @@ This involves
     5. Exploratory Questions
 
 
-DATA SET:
+# DATA SET:
 
 
 This dataset reflects the crime incidents recorded in the City of Los Angeles starting from the year 2020 to the present.
@@ -65,7 +65,7 @@ Heatmaps and pie charts revealed that no area within the city is exempt from cri
 Investigations into the dataset raised several questions regarding the effectiveness of current crime prevention strategies, the impact of socio-economic factors on crime rates, and the adequacy of support for victims.
 
 
-INSIGHTS FROM DATA
+# INSIGHTS FROM DATA
 
 •	The crime rate has been on an uptrend, challenging the notion that the city is becoming safer.
 •	Identity theft is identified as a rapidly growing concern, necessitating immediate and targeted countermeasures.
